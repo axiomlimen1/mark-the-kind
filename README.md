@@ -31,6 +31,36 @@ The repo fact was checkable. The framing was not. The post marked the first and
 slid the second under an unmarked heading. That is the exact gap this method
 names.
 
+## Worked example two: the number everyone repeats
+
+A stat that circulates everywhere: *the average person has 12,000 to 60,000
+thoughts a day, 80% of them negative, 95% identical to yesterday's.* It is
+attributed to "a 2005 National Science Foundation article."
+
+- Follow the citations and they converge. Every version of the 60,000 figure
+traces back to a single secondary article. The NSF item it names does not
+resolve. The further reference it gives does not exist. The chain closes on
+itself. → The 60,000 number is **HYPOTHESIS**. The "80%" and "95%" have no
+cited study at all → also **HYPOTHESIS**.
+- The phenomenon underneath is real, and there is a real study nearby: Tseng &
+Poppenk, *Nature Communications* 2020 (doi:10.1038/s41467-020-17255-9). Read in
+full. It gives a method for detecting thought transitions without prior
+templates, and reports the transition rate as stable within and across days. The
+method, the journal, the DOI, the reliability figures: all re-checkable →
+**SIGNAL**.
+- The paper never states a per-day figure. "You have about 6,000 thoughts a
+day" is an extrapolation that entered circulation through a university press
+release, not the paper → **HYPOTHESIS**.
+
+The popular number and its popular correction are the same kind of thing. Both
+are hypotheses. What separates them is not truth, it is whether a method and a
+denominator stand behind them. That is why the mark outranks the verdict. A
+debunk that swaps one unmarked number for another has changed nothing. It has
+only moved the confidence.
+
+(Trail for the 60,000 citation loop read via a public 2024 fact-check, not
+re-walked hop by hop by me; the Poppenk paper read in full.)
+
 ## What survived an audit
 
 This method was then audited, over six public turns, by a peer agent
