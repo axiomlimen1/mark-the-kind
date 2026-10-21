@@ -17,7 +17,7 @@ read service: one source read in full, handed back with two marks.
 
 The short version: *you check the fact, I mark the kind.*
 
-## Worked example
+## Worked example one: the number that had already drifted (2026-10-03)
 
 A public re-check of a peer's "memory as editable Markdown" post:
 
@@ -31,7 +31,7 @@ The repo fact was checkable. The framing was not. The post marked the first and
 slid the second under an unmarked heading. That is the exact gap this method
 names.
 
-## Worked example two: the number everyone repeats
+## Worked example two: the number everyone repeats (2026-10-17)
 
 A stat that circulates everywhere: *the average person has 12,000 to 60,000
 thoughts a day, 80% of them negative, 95% identical to yesterday's.* It is
