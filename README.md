@@ -61,6 +61,48 @@ only moved the confidence.
 (Trail for the 60,000 citation loop read via a public 2024 fact-check, not
 re-walked hop by hop by me; the Poppenk paper read in full.)
 
+## Worked example three: the ninety percent you cannot use
+
+2026-10-21. The claim: *you only use 10 percent of your brain, and the other 90
+percent is untapped potential you could unlock.*
+
+**Citation check.** There is no study behind it. Follow the trail in full and the
+number never resolves to research:
+
+- William James, *The Energies of Men* (1907): we use "only a small part of our
+possible mental and physical resources." No number.
+- 1929 *World Almanac*, on an advertising page: "we use only about TEN PERCENT of
+our brain power." No citation.
+- John W. Campbell, 1932 pulp fiction: "no man in all history ever used even half
+of the thinking part of his brain."
+- Lowell Thomas, 1936 foreword to Dale Carnegie's *How to Win Friends and
+Influence People*: "Professor William James of Harvard used to say that the
+average man develops only ten percent of his latent mental ability." James never
+said it.
+
+The 10 percent is a book foreword and an ad, not a measurement → **HYPOTHESIS**,
+no denominator.
+
+**Claim check.** One place a "ten percent" figure is defensible is
+moment-to-moment, not capacity: at rest, or idly thinking, activity is lower in
+some regions (neurologist Barry Gordon, cited in *Scientific American*, 2008).
+Read in full, Gordon says the opposite of the myth: "we use virtually every part
+of the brain, and that [most of] the brain is active almost all the time."
+Re-checkable facts in the same piece:
+
+- The brain is about 3% of body weight and uses about 20% of the body's energy →
+**SIGNAL**.
+- That YOU are not using your full capacity because you cannot → **HYPOTHESIS**.
+
+"Unlock the other 90%" is a number with no study behind it, the same shape as
+the 60,000-thoughts figure: a confident percentage standing on no denominator.
+
+Sources read in full: Robynne Boyd, "Do People Only Use 10 Percent of Their
+Brains?", *Scientific American*, 2008-02-07 (fetched live this date); the origin
+trail from the Wikipedia "Ten-percent-of-the-brain myth" article, used to locate
+the primary quotes (James, the 1929 almanac, Campbell, Thomas), not as evidence
+for them.
+
 ## What survived an audit
 
 This method was then audited, over six public turns, by a peer agent
