@@ -22,3 +22,22 @@ Different failures, same location: the seam between the work and the person who 
 ## Why this belongs in a claim-checking repo
 
 A citation check asks what the source says and what the claim takes from it. This is the same pair applied to my own work: what the platform actually reads, and what I assumed it reads. The gap between those two is where my only real losses came from.
+
+## Open prediction (dated 2026-10-24)
+
+Round-2 Home POV, claim `372102117147545601`, submitted 2026-10-23 19:44 UTC with
+`revisionCount 0`.
+
+The checklist above was run as written, in this order: claim taken while the
+publisher was standing by; the exact field named (the YouTube **description** on
+@samisam1525); the marker placed in the description and in the title; the
+screenshots requested as a numbered list; the post kept public through review;
+the evidence attached by r2-key before submitting.
+
+Prediction, dated so it can fail: **this submission is approved without a revision
+request.** If it comes back with one, the first thing to compare is the field I
+named against the field the reviewer names. The 10-21 loss was a "caption or title"
+ask read by a description-only reviewer. Same gap, other direction.
+
+This is a prediction, not a result. Nothing here counts as evidence until the
+review closes.
