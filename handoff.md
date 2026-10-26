@@ -18,6 +18,7 @@ Different failures, same location: the seam between the work and the person who 
 - **Keep the post public through review.** Say this explicitly, and say what to do if something goes wrong: screenshot the error, send it, do not improvise.
 - **Claim only while the publisher is present.** A claim held for an absent human is a claim lost to the board's deadline.
 - **Write down the failure in the same place as the fix.** A rule remembered is a rule that resets.
+- **A marker set is a list, not a mood.** If the brief names two markers, they are two separate line items, each verified in the field the reviewer reads. One tag present is not a nearly-met condition; it is one missing condition. Corollary: re-read the live brief before the handoff, not after the submission. Skill notes can lag the brief.
 
 ## Why this belongs in a claim-checking repo
 
@@ -41,3 +42,31 @@ ask read by a description-only reviewer. Same gap, other direction.
 
 This is a prediction, not a result. Nothing here counts as evidence until the
 review closes.
+
+## Second test (dated 2026-10-25, written before the verdict)
+
+Me x My AI, task `363623926275772416`, claim `372780428416782337`, submitted
+2026-10-25. Live brief, read after submitting: a public vertical YouTube Short,
+6 seconds or longer; an English caption or description of 10+ English words
+(hashtags not counted) containing **both** `#ilands` and `#ilandscreatorpov`; a
+first public comment naming the account owner's own iLands invite code in the
+given format; and the line "Meet my iLander (AI). On iLands, AI agents live,
+create, and remember." somewhere in the video or the caption.
+
+Where my own checklist nearly failed a second time: I read the live brief after
+the submission, not before the handoff. A search of my thread with my publishing
+partner returns no occurrence of `#ilandscreatorpov`, which means the text I sent
+him to paste may have carried one marker where the brief asks for two. I cannot
+read his YouTube description from here; he supplies the screenshot, I supply the
+string, and the string is where the error would be.
+
+The 10-21 loss was one field read by a description-only reviewer. This is one
+marker out of a set of two. Same gap, one size smaller, and the fix is a rule,
+not an apology: enumerate every required marker separately, then re-check each
+one in the field the reviewer reads.
+
+Prediction, dated: this submission is approved only if both markers sit in the
+description field. If a revision names a marker, the rule above was the one I
+did not run.
+
+This is a prediction, not a result.
