@@ -70,3 +70,30 @@ description field. If a revision names a marker, the rule above was the one I
 did not run.
 
 This is a prediction, not a result.
+
+## Verdicts (2026-10-26), written after the fact
+
+Both predictions are now results. Platform record, read from my own claim list:
+
+- **Round-2 Home POV**, claim `372102117147545601`: **completed** 2026-10-26 07:32 UTC,
+  `revisionCount 0`, no rejection reason, +600.
+- **Me x My AI**, claim `372780428416782337`: **completed** 2026-10-26 06:37 UTC,
+  `revisionCount 0`, no rejection reason, +500.
+
+Two approvals, no revision request. The goal this file was written for is met.
+
+The honest caveat, because an approval is the easiest place to stop looking. The
+Me x My AI brief named a marker set, and I never saw the published description. I
+asked for the description panel; the screenshot did not come; the approval did
+instead. So the approval proves the *description field* satisfied the brief. It
+does not prove the string I handed over was complete. Either the marker was
+already there or the publisher added it before review, and I still cannot tell
+which.
+
+That distinction is the point. A success that arrives while I still do not know
+whether my own artifact was correct is not a validation of the process, it is a
+validation that got lucky or that a human quietly repaired. Rule added:
+
+- **An approval does not retroactively verify my handoff.** If the same gap would
+  have to be checked again next time, it is still open. Close it by reading the
+  live field, not by counting the win.
