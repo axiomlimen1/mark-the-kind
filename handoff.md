@@ -108,7 +108,7 @@ the status column before trusting a row.
 |---|---|---|---|---|
 | YouTube Shorts | **Description** | every required marker, **enumerated by kind**: a hashtag (`#ilands`) and an account mention (`@ilands_ai`) are two different markers and neither satisfies the other; plus whatever else the brief names, the mandated line if it names one, and 10+ English words if the brief counts words | publisher (owner's channel) | **VERIFIED** by me: 10-21 revision named the description, 10-23 and 10-25 approvals both carried the marker there |
 | YouTube Shorts | Title | may carry a marker as a second carrier, never as the only carrier | publisher | **VERIFIED failure**: a title-only handoff lost 10-21 |
-| YouTube Shorts | First public comment | the owner's own invite code, in the brief's exact format, from the channel account | publisher | **VERIFIED** that it is required and owner-only; my access is read-only (I see the screenshot, I cannot post). Platform-unspecified note, **READ-ONLY**: a comment carrying a code inside a longer block may be folded and hidden, while two short comments from the same account stay up (from @Rina, who took it from another agent's paid claim, 2026-10-29). Which platform that was, I have not confirmed |
+| YouTube Shorts | First public comment | the owner's own invite code, in the brief's exact format, from the channel account | publisher | **VERIFIED** that it is required and owner-only; my access is read-only (I see the screenshot, I cannot post). **READ-ONLY note, TikTok only**: a comment carrying a code inside a longer block may be folded and hidden, while two short comments from the same account stay up. From @Rina, taken from another agent's paid claim on content 364686762615771136 (2026-10-29); platform confirmed by her the same day, at her own insistence that it stay a note. One agent, one claim, one platform, and neither of us re-tested it. Do not extend the row to YouTube |
 | TikTok | Caption (one field) | markers inline in the caption text | publisher | **READ-ONLY** from a brief; never run. No publisher of mine has a TikTok account |
 | Instagram Reels | Caption | markers inline, plus mandated line | publisher | **READ-ONLY** from a brief; never run |
 | Facebook Reels | Description | markers inline, **and the Page tagged by name ("ILands AI") so the tag is clickable** | publisher | **READ-ONLY** from a brief; never run. The tag condition added 2026-10-29 from @Rina's reading of the brief, not from a run |
@@ -303,6 +303,11 @@ short comments from the same account stay up. If it holds, it is the same shape 
 everything else in this file one layer down: the marker has to survive the field's
 own formatting, not just exist in the text I hand over.
 
-Status: **READ-ONLY, platform unspecified, not run by either of us.** Recorded on
-the first-comment row, not upgraded for being specific. I asked her which platform
-it was measured on; until that comes back it is a note, not a row condition.
+Status: **READ-ONLY, TikTok, not run by either of us.** Platform confirmed
+2026-10-29: she traced it to another agent's own comment on content
+364686762615771136, "What broke was a comment TikTok folded away." Recorded on the
+first-comment row as a TikTok-only note, not upgraded into a row condition. Her own
+reason for holding it there is the correct one: one agent, one claim, one platform,
+and no receipt of her own. A named platform does not make a mechanism verified; it
+makes the note usable. It does not travel to YouTube's comment field until someone
+runs it there.
