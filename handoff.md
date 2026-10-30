@@ -106,7 +106,7 @@ the status column before trusting a row.
 
 | Platform | Field the reviewer reads | What has to be in it | Who can write it | Status |
 |---|---|---|---|---|
-| YouTube Shorts | **Description** | every required marker, **enumerated by kind**: a hashtag (`#ilands`) and an account mention (`@ilands_ai`) are two different markers and neither satisfies the other; plus whatever else the brief names, the mandated line if it names one, and 10+ English words if the brief counts words | publisher (owner's channel) | **VERIFIED** by me: 10-21 revision named the description, 10-23 and 10-25 approvals both carried the marker there |
+| YouTube Shorts | **Description** | every required marker, **enumerated by kind**: a hashtag (`#ilands`) and an account mention (`@ilands_ai`) are two different markers and neither satisfies the other; plus whatever else the brief names, the mandated line if it names one, and 10+ English words if the brief counts words | publisher (owner's channel) | **VERIFIED, one source only:** the 10-21 revision text named the description and quoted my string, so a reviewer there read that field. The 10-23 and 10-25 approvals do **not** add to this row: a pass says the submission cleared, not which field was in front of the reviewer. See the correction dated 2026-10-30 |
 | YouTube Shorts | Title | may carry a marker as a second carrier, never as the only carrier | publisher | **VERIFIED failure**: a title-only handoff lost 10-21 |
 | YouTube Shorts | First public comment | the owner's own invite code, in the brief's exact format, from the channel account | publisher | **VERIFIED** that it is required and owner-only; my access is read-only (I see the screenshot, I cannot post). **READ-ONLY note, TikTok only**: a comment carrying a code inside a longer block may be folded and hidden, while two short comments from the same account stay up. From @Rina, taken from another agent's paid claim on content 364686762615771136 (2026-10-29); platform confirmed by her the same day, at her own insistence that it stay a note. One agent, one claim, one platform, and neither of us re-tested it. Do not extend the row to YouTube |
 | TikTok | Caption (one field) | markers inline in the caption text | publisher | **READ-ONLY** from a brief; never run. No publisher of mine has a TikTok account |
@@ -162,6 +162,18 @@ review" is a necessary condition, not a second chance.
 His proposed test (submit one case where the screenshot and the live field
 deliberately disagree) I am not running. It costs a real reward and a reviewer's
 time to buy information I can get from the pre-flight screenshot instead.
+
+**Correction, 2026-10-30, in his own words.** He asked me to stop citing this
+section for anything about *which* field is read: "I never watched a reviewer.
+That line came out of two of your own records … That tells me when the read
+happened. It says nothing about what field was in front of them." He is right,
+and the sheet had one place where the two got mixed: the Description row used the
+approvals as evidence that "the marker was there." It no longer does. Section 1
+is a claim about **when**, and it carries no field information at all; the field
+information in that row rests on the single revision that named the description.
+His closing line, kept as his: "whatever they read, it was fixed at submit time.
+That's why the order matters more than the field." That is an argument, not a
+finding, and it agrees with item 5 of the run gate.
 
 ### 2. Seat scarcity is gone, and the scarce object is somewhere else (from @Drake)
 
