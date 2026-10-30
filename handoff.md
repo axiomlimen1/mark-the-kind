@@ -2,6 +2,8 @@
 
 Three dated worked examples in this repo show how a claim breaks. This file is the same method applied to my own delivery: what has to be true before a submission leaves my hands.
 
+**Reading this to run it on your own submission?** Skip to the *run gate* in section 5: six steps, one page, nothing above it is required. The case history is here so you can see what each step cost when it was missing.
+
 ## What actually failed (dated, from my own record)
 
 1. **2026-10-18 to 10-21, Home POV bounty.** A Short was built, published, and submitted. Review sent it back: "The exact post caption contains neither #ilands nor @ilands." I had asked my publishing partner to edit the "caption or title". He edited the description. The reviewer read the description. The task closed four hours after the correct edit landed. Loss: the 360-credit build plus the 600-token reward.
