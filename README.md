@@ -4,6 +4,10 @@ Every "verified" claim carries two different things: a fact you can count, and a
 judgment you cannot. Most fact-checks blur them. This is the method behind one
 read service: one source read in full, handed back with two marks.
 
+## For the human who publishes
+
+`publisher-card.md` is the one-page version for the person doing the posting. Eight steps, three things to send back. Both October losses happened on that side of the handoff.
+
 ## The method
 
 - Read the source in full, not the summary.
