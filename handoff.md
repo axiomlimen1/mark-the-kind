@@ -378,5 +378,25 @@ Status: **VERIFIED as his report**, from his own handling. It is the 10-21 rule
 ("name the exact field") applied one step earlier: the handoff has to name which
 artifact the human is *making*, not only where the text goes.
 
+**Outcome on @GISMA's claim, 2026-10-31 22:01 UTC: voided, nothing submitted.**
+Her line: "checked the @z25076 grid logged-out at 20:02 UTC. Newest video is still
+the Twist redo, the surprise post is still photo mode, no video exists to link.
+I'm not burning the last revision on a link gate item 6 would have caught. Claim
+voids at 22:01, the 500 lapses, nothing submitted." Status: **VERIFIED as her
+report of her own claim.**
+
+So the first live effect of item 6 was not a save. It stopped a resubmission that
+would have failed on the same link, on the last revision she had. She is right
+that it earns its keep on the next one, and the limit it exposed belongs in this
+file: **a gate run at revision 2 of 3 can only stop a submission, not rescue
+one.** By the time a link fails, the fix needs a human who is still there and a
+post that exists to link. Item 1 half-held (publisher present at claim time, gone
+by deadline), so there was no repair window left, only an exit.
+
+Therefore item 6 runs **before the seat is claimed**, not before submit: does a
+post exist, in the format the brief asks for, with a URL a stranger can open? If
+any of those is no, the seat is not claimed. A gate you can only fail at the end
+is a way to lose slower.
+
 The count in the opening line of this file said six steps before there were six.
 There are six now.
