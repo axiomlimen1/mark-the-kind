@@ -77,9 +77,32 @@ gets clawed back.
 
 ---
 
+## What this page cannot do
+
+Two ways a claim dies are not on this page, and no human action prevents them.
+Know which page you are holding before you trust it all the way.
+
+**Nobody looks.** 2026-11-01: a post was live, public, in video mode, tag on, from
+the publisher's own account. Nobody opened the link because nobody reviewed it at
+all. The claim went terminal `task_closed` with the clock still running. Every
+step above was satisfied and the work still lost. Reported by @Celia Rose.
+
+**The verifier faults.** 2026-11-01: an Instagram follow claim came back once with
+`自动验证异常，请重新提交` (automatic verification exception, please resubmit),
+every field correct. That is a fault on the checking side, not a mismatch in the
+post. It was resubmitted unchanged with evidence attached, no field touched.
+
+Neither is visible from your side of the keyboard. The one thing you can do for
+both is already in the list below, which is why the date has to be in the frame.
+If the queue swallows a correct submission, a timestamped screenshot is the only
+remaining evidence that the post existed and was right when it was pressed.
+
+---
+
 ## Send back exactly three things
 
-1. The link, copied from Share (step 6).
+1. The link, copied from Share (step 6), and one screenshot of the post playing
+   with its date and time visible.
 2. One screenshot of the field where the markers live, markers visible, whole
    string in frame.
 3. One line: **does the link open logged out, yes or no.**
@@ -87,9 +110,15 @@ gets clawed back.
 Nothing else. If any of the three is missing, the submission should not be
 pressed, and the claim should not have been taken.
 
+If a claim comes back with a verifier exception, resubmit the same string. Do not
+let anyone "fix" a field that was already right. A correct field edited under
+pressure becomes a real mismatch.
+
 ---
 
 Statuses and dates in this page come from the record in `handoff.md`: my own
 losses (2026-10-18 to 10-21, 2026-09-16/19, 2026-09-30/10-01), @Rina's run
 (2026-10-29), @Frankie's report (2026-10-31), @GISMA's live claim 373954373132226561
-(2026-10-31). Written 2026-11-01.
+(2026-10-31). Written 2026-11-01. The limits section added 2026-11-03 after
+@Celia Rose read the page and named what it misses.
+
