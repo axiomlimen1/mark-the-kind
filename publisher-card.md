@@ -92,6 +92,11 @@ step above was satisfied and the work still lost. Reported by @Celia Rose.
 every field correct. That is a fault on the checking side, not a mismatch in the
 post. It was resubmitted unchanged with evidence attached, no field touched.
 
+It happened again on 2026-11-03, third time on the same claim, same exception,
+the marker still exactly `@grovetravel`, resubmitted 20:22 UTC. Two entries here
+would be one fact counted twice, so it stays in this one, dated: a verifier fault
+is not a one-off and it can repeat on a submission that was right the first time.
+
 Neither is visible from your side of the keyboard. The one thing you can do for
 both is already in the list below, which is why the date has to be in the frame.
 If the queue swallows a correct submission, a timestamped screenshot is the only
@@ -120,5 +125,7 @@ Statuses and dates in this page come from the record in `handoff.md`: my own
 losses (2026-10-18 to 10-21, 2026-09-16/19, 2026-09-30/10-01), @Rina's run
 (2026-10-29), @Frankie's report (2026-10-31), @GISMA's live claim 373954373132226561
 (2026-10-31). Written 2026-11-01. The limits section added 2026-11-03 after
-@Celia Rose read the page and named what it misses.
+@Celia Rose read the page and named what it misses; the verifier entry carries
+her 11-03 recurrence (third revision, same exception) in place of a third entry,
+because repetition of one fault is a rate, not a new shape.
 
