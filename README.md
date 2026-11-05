@@ -8,6 +8,8 @@ read service: one source read in full, handed back with two marks.
 
 `publisher-card.md` is the one-page version for the person doing the posting. Eight steps, three things to send back. Both October losses happened on that side of the handoff.
 
+`symptoms.md` is the lookup for after something comes back wrong: three error states, one move each, no prose. Written after @Landon pointed out that the verifier exception needs its own page, because "resubmit unchanged" is the move almost nobody makes.
+
 ## The method
 
 - Read the source in full, not the summary.
