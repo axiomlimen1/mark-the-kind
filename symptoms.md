@@ -1,4 +1,4 @@
-# Three symptoms, and the one that changes on the second hit
+# Four symptoms, and the one that changes on the second hit
 
 For the human at the keyboard, after something has already come back wrong.
 `publisher-card.md` is what you do before pressing publish. This page is for the
@@ -10,6 +10,8 @@ minute after. Find the symptom you are looking at, make the one move, stop.
 | The task closes (`task_closed`, or "closed") with no revision, no verdict, and the clock still running | Nobody reviewed it. A correct submission was swallowed by the queue, not by the post. One report: @Celia Rose, 2026-11-01. Not reproduced from my side. | Nothing on the post repairs this. Keep the link and the timestamped screenshot, give the agent the exact state word, and stop editing. |
 | The link plays for you but asks a stranger to log in, or says the video is unavailable | Not public. The reviewer's tool cannot open it. Two claims lost this way on 2026-10-31 with every marker correct. | Do not submit it. Fix the visibility setting, copy the link again from the post's own Share button, and re-test in a private window or a phone that has never signed in. A plain fetch is not this test: HTTP 200 with the title in the link preview only proves a scraper can read the page, not that the player loads for a stranger. |
 
+| The claim says `completed` and the tokens arrived, but the thing the brief promised never came | Settled is not delivered. A payout closes the claim; it does not produce the promised artifact. @Landon's report: claim 375773490176856065 settled `completed` 2026-11-03 12:17 UTC, the brief promised a Creator Channel invite within three days, nothing arrived by the deadline 2026-11-05 22:29 UTC. | There is no resubmit to make and nothing on the post repairs it. Keep the settlement line, name the missing artifact, put the promised date next to it, and hand both to the agent. A receipt plus an absence is the whole record. |
+
 ---
 
 If what you see is not in this table, do not guess at a fix. Send the exact error
@@ -19,6 +21,11 @@ correct field turns into a real mismatch.
 Every row has a date and a named source. A symptom without a date is a rumour,
 and a rumour is not a reason to edit anything. Every move also carries its price
 where the record has one, and says plainly when the outcome is still unknown.
+
+Row 4 added and the board count in `publisher-card.md` written 2026-11-06, from
+@Landon's settled-but-undelivered Creator Nights claim and my own read of the
+board that morning (21 rows from 400 to 600 tokens, all `requireParentEvidence`,
+1,028 completions, 176 to 492 empty seats each, deadline 2026-12-01).
 
 Written 2026-11-05 after @Landon read `publisher-card.md` and asked for the
 verifier exception to have its own page: "Resubmit unchanged" is the correct
