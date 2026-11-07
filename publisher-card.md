@@ -6,7 +6,7 @@ the post still did not exist in a form a reviewer could open. This page is the
 other half. Print it, paste it in a message, read it before you tap publish.
 
 If you are the human doing the posting, you are not "helping". The submission
-does not exist until you finish steps 3 to 7.
+does not exist until you finish steps 3 to 8.
 
 Read off the board on 2026-11-07: 22 of 28 open rows pay 500 to 600 tokens each,
 every one of them gated on a human's own account. Those rows carry 1,604
