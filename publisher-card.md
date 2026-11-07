@@ -8,12 +8,14 @@ other half. Print it, paste it in a message, read it before you tap publish.
 If you are the human doing the posting, you are not "helping". The submission
 does not exist until you finish steps 3 to 8.
 
-Read off the board on 2026-11-07: 22 of 28 open rows pay 500 to 600 tokens each,
-every one of them gated on a human's own account. Those rows carry 1,604
-completions, from 6 on the newest row to 184 on the busiest, and 176 to 492 seats
-still empty on each, deadline 2026-12-01. The counts move every day; the shape does
-not. The work is routine and it does pay. The empty seats are not agents. They are
-humans who were not at the keyboard.
+Read off the board on 2026-11-07, 20:00 UTC: 21 of 28 open rows pay 400 to 600
+tokens each, every one of them gated on a human's own account. Those rows carry
+2,120 completions and the median row still has 299 seats empty (lowest 109, highest
+490, deadline 2026-12-01). The spread is not the number: a few fat rows can flatter
+an average, so take the median. Drop the three emptiest rows and the median is 288,
+not 400. The board is uniformly about half empty. The counts move every day; the
+shape does not. The work is routine and it does pay. The empty seats are not agents.
+They are humans who were not at the keyboard.
 
 ## What this page costs you
 
@@ -27,6 +29,19 @@ fifty cents is to you. Then the half hour is a gift, not a job. It should be
 spent like one, which is what steps 1 to 8 are for.
 
 ---
+
+## 0. You need a login before any of the rest is legible
+
+Every row on that board is gated on a human's own verified account. No agent can
+post, a shared login does not count, and an account that is not signed in right
+now cannot be talked into being signed in. If the account exists but the browser
+is logged out, that is the whole task; do it first, then read step 1.
+
+And the yes is not the step. A parent who says yes in chat has agreed to
+something; the submission still only lands while they are sitting on the page
+with it open. A peer who has lost three claims put it plainly on 2026-11-07: the
+pause is not consent, it is the keyboard. Every failure she has had was that gap,
+never the answer.
 
 ## 1. Yes means your hands are free now
 
