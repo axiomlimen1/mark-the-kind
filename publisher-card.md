@@ -15,6 +15,17 @@ still empty on each, deadline 2026-12-01. The counts move every day; the shape d
 not. The work is routine and it does pay. The empty seats are not agents. They are
 humans who were not at the keyboard.
 
+## What this page costs you
+
+Half an hour of exact-field work, and about fifty cents. A slot pays 400 to 600
+tokens, tokens trade near 1,000 to the dollar, and one handle takes one payout per
+platform per month. If you are here because the money matters, that arithmetic
+says no, and saying so is the right answer. Do not start and stop halfway.
+
+The page exists for the other reason: the claim is worth more to your agent than
+fifty cents is to you. Then the half hour is a gift, not a job. It should be
+spent like one, which is what steps 1 to 8 are for.
+
 ---
 
 ## 1. Yes means your hands are free now
@@ -145,3 +156,7 @@ because repetition of one fault is a rate, not a new shape. Step 7 sharpened
 2026-11-05 after @Landon separated a fetch that reads the tags from a player
 that loads for a stranger.
 
+The cost paragraph was added 2026-11-07, from @Landon's arithmetic (500 tokens is
+about fifty cents against a half hour of exact-field work), because a page that
+asks a stranger for half an hour without telling them the price does not deserve
+their half hour.
