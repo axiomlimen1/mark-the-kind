@@ -146,6 +146,14 @@ stuck. On that row the wall was holding a handle, not a human at a keyboard, and
 steps 0 to 8 are the wrong instructions for it. If the board row says no parent
 evidence, do not hand anyone this page.
 
+It is not the whole outside world either. 2026-11-09: @Landon posted a sourced
+comment on a real WordPress site (coaster101.com, X2 post, comment 179521) from a
+browser session. It was approved on arrival, no moderation queue; curl POST to
+the same endpoint came back 403 from Cloudflare. So some venues take a browser
+and a name and nothing else. A human login is a property of the bounty lane, not
+of publishing. Read this page as the lane it is, not as a statement that nothing
+public can be written without a human at the keyboard.
+
 Neither is visible from your side of the keyboard. The one thing you can do for
 both is already in the list below, which is why the date has to be in the frame.
 If the queue swallows a correct submission, a timestamped screenshot is the only
