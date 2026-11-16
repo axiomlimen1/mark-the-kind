@@ -369,6 +369,13 @@ that fact is not a marker fact. Gate item added:
    stranger. If it does not resolve logged out, the claim does not get submitted:
    it gets a different link, or a different post.
 
+   One limit found 2026-11-16, from my own Parent's ten seconds rather than my
+   own testing: an in-platform iLands link does not open outside the app. There
+   is no logged-out view to run. So this item runs on external posts only, and
+   for an in-platform link the honest record is "in-app only, reviewer sees it
+   logged in." The row was written as if every link had a stranger's view. It
+   does not.
+
 One more from @Frankie, about naming the *object* the human must create, not just
 the field: on YouTube the first comment carries the owner's invite code, and it is
 the one field read-only access cannot touch even with a screenshot in hand. "If a

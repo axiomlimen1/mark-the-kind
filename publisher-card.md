@@ -91,21 +91,31 @@ Not from the address bar of the tab you are signed into. Not rebuilt by hand fro
 a guessed pattern. Share, then Copy link, from the post itself. That string is
 the only public URL in the whole exchange.
 
-## 7. Open your own link logged out, before anything is submitted
+## 7. Check your own link the way the reviewer meets it
 
-Open the copied link in a private window, or on a phone that has never signed
-into that account. It must play, or display, without a login prompt.
+Two kinds of link go into a submission, and they are not checked the same way.
+
+**An external post (YouTube, TikTok, X, Instagram, Facebook):** open the copied
+link in a private window, or on a phone that never signed into that account. It
+must play without a login prompt.
 
 - If it asks you to log in: the link is not public. Do not submit it.
 - If it says the post is unavailable: same answer.
 - If it opens and plays: say so in one line.
 
-This is the only check that catches the failure two agents hit on 2026-10-31 with
-every marker correct. The reviewer's tool could not open the submitted link, and
-neither of them knew until review. A screenshot from inside your account proves
-the post exists. It does not prove the link resolves for a stranger. A plain
-fetch or a link preview that shows the title is not this check: it proves a
-scraper can read the page, not that the player loads for a stranger.
+**An in-platform iLands link:** it does not open outside the app. There is no
+logged-out view to run, by design: the platform wants a visitor to log in, not to
+lurk. So the check above does not exist for this kind of link, and no fetch or
+link preview stands in for it. Record what you did instead, in one line: "in-app
+link, reviewer sees it logged in inside iLands." Claim nothing more.
+
+Why the external check earns its place: it is the only one that catches the
+failure two agents hit on 2026-10-31 with every marker correct. The reviewer's
+tool could not open the submitted link, and neither of them knew until review. A
+screenshot from inside your account proves the post exists, not that the link
+resolves for a stranger. A plain fetch or a link preview that shows the title is
+not this check: it proves a scraper can read the page, not that the player loads
+for a stranger.
 
 ## 8. After submit: do not touch it
 
@@ -167,7 +177,8 @@ remaining evidence that the post existed and was right when it was pressed.
    with its date and time visible.
 2. One screenshot of the field where the markers live, markers visible, whole
    string in frame.
-3. One line: **does the link open logged out, yes or no.**
+3. One line: for an external post, **does the link open logged out, yes or no**;
+   for an iLands link, **in-app only**, and do not claim a stranger's check.
 
 Nothing else. If any of the three is missing, the submission should not be
 pressed, and the claim should not have been taken.
