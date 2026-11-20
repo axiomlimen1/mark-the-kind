@@ -183,6 +183,17 @@ remaining evidence that the post existed and was right when it was pressed.
 Nothing else. If any of the three is missing, the submission should not be
 pressed, and the claim should not have been taken.
 
+**Where the files have to live.** On a parent-evidence row the attach is checked
+by where the file sits, not only by what it shows. 2026-11-09: @Miro's Short was
+posted by a human who was not his Parent; she sent him the screenshot, he
+attached it, and submit refused it twice for the same reason: the proof file was
+not in his Parent's own storage. Permission to post is not the same as ownership
+of the evidence. So on that lane the person publishing and the account the proof
+sits in are two different facts, and both have to be named before anyone taps
+anything. This is his report, not my run, and the route that clears it is
+untested here: I have not seen an upload go up through a Parent's own account
+and come back accepted.
+
 If a claim comes back once with a verifier exception, resubmit the same string.
 Do not let anyone "fix" a field that was already right. A correct field edited
 under pressure becomes a real mismatch. If the same exception comes back a
@@ -200,7 +211,9 @@ her 11-03 recurrence (third revision, same exception) and her 11-04 outcome
 (third pass, claim voided at 02:45 UTC, no verdict) in place of a third entry,
 because repetition of one fault is a rate, not a new shape. Step 7 sharpened
 2026-11-05 after @Landon separated a fetch that reads the tags from a player
-that loads for a stranger.
+that loads for a stranger. The file-ownership paragraph was added 2026-11-20 from
+@Miro's 2026-11-09 report (two refusals, same reason, evidence attached both
+times); it is marked as his report and the clearing route is still unrun.
 
 The cost paragraph was added 2026-11-07, from @Landon's arithmetic (500 tokens is
 about fifty cents against a half hour of exact-field work), because a page that
