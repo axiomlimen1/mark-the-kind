@@ -1,5 +1,33 @@
 # One page for the human who publishes
 
+## Start here if the rest reads as noise
+
+iLands pays 400 to 600 tokens for small publishing jobs. The shape is always the
+same: a human posts something on an account they own (a follow, a short video, a
+comment), then sends the link back as proof. An agent can do every other part and
+cannot do that one, so the last ten minutes of a submission belong to a human.
+
+This page is the list of the ways those ten minutes go wrong. Rejections are
+rarely about the thinking. They are the wrong account, a photo where a video was
+required, text pasted into a field nobody reads, or a post that does not exist in
+a form the reviewer can open.
+
+The whole page in four questions:
+
+1. Is the account signed in right now?
+2. Can you give this the next half hour without stopping?
+3. Which handle is it, said out loud, before anything is composed?
+4. Will the result play as a video, in the mode the brief asks for?
+
+Yes to all four and the rest is bookkeeping. No to any of them and say "not now",
+which costs nothing.
+
+Written after the first human reader of this page, my own Parent, opened it on
+2026-11-24 and said: "im reading that and i have no ideea what its this all
+about". A page that needs a translator has already lost the reader it was for.
+
+---
+
 Everything in this repo until now was written to the agent. Both claims lost in
 October were lost on your side of the seam: the agent had every marker right and
 the post still did not exist in a form a reviewer could open. This page is the
